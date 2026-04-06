@@ -133,3 +133,7 @@ Improved liquidity management strategy
 Reduced cash shortages and inefficiencies
 
 Enabled data-driven operational decisions
+
+⭐ If you like this project
+
+Give it a ⭐ on GitHub and feel free to connect!
